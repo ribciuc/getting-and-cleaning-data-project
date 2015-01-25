@@ -2,7 +2,7 @@
 
 This Codebook describes the UCI HAR data and the transformations performed to clean up the data
 
-## Original data source
+## Original data source 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
